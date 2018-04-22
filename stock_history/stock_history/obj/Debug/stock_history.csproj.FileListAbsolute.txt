@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 2013\Projects\stock_history\stock_history\bin\Debug\stock_history.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\stock_history\stock_history\bin\Debug\stock_history.exe
+c:\users\administrator\documents\visual studio 2013\Projects\stock_history\stock_history\bin\Debug\stock_history.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\stock_history\stock_history\obj\Debug\stock_history.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\stock_history\stock_history\obj\Debug\stock_history.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\stock_history\stock_history\obj\Debug\stock_history.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\stock_history\stock_history\obj\Debug\stock_history.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\stock_history\stock_history\obj\Debug\stock_history.exe
+c:\users\administrator\documents\visual studio 2013\Projects\stock_history\stock_history\obj\Debug\stock_history.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\stock_history\stock_history\bin\Debug\HtmlAgilityPack.dll
+E:\rpn5\stock_history\stock_history\bin\Debug\stock_history.exe.config
+E:\rpn5\stock_history\stock_history\obj\Debug\stock_history.exe
+E:\rpn5\stock_history\stock_history\obj\Debug\stock_history.pdb

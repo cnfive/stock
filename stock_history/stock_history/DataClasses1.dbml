@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="lucene" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=127.0.0.1;Initial Catalog=lucene;User ID=sa" SettingsObjectName="stock_history.Properties.Settings" SettingsPropertyName="luceneConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.stock_trade_history" Member="stock_trade_history">
+    <Type Name="stock_trade_history">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="stock_id" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="stock_name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="kaipanjia" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="zuigaojia" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="soupanjia" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="zuidijia" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="jiaoyiliang" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="jiaoyijine" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="date" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.stock_id_name" Member="stock_id_name">
+    <Type Name="stock_id_name">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="stock_name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="stock_type" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="tag" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="tag_date" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="stock_id" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
